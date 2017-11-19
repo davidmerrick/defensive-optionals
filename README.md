@@ -1,0 +1,1 @@
+Code written for a blog post on how to defensively code Optionals in Java: [https://www.david-merrick.com/2017/11/19/how-to-defensively-code-optional-parameters-in-java/](https://www.david-merrick.com/2017/11/19/how-to-defensively-code-optional-parameters-in-java/).
